@@ -9,7 +9,9 @@
 <div><a href="https://github.com/Arturium-Browser/arturium-browser">GitHub Repo</a></div>
 
 <h3>Help</h3>
-<div><a href="https://github.com/Arturium-Browser/arturium-browser/blob/arturium-browser/README.md">Readme on GitHub</a></div>
-<div>There's also a Readme in the zip that you download. Most issues can be easily resolved by reading it. </div>
+<div><a href="https://github.com/Arturium-Browser/arturium-browser/blob/arturium-browser/README.md">README on GitHub</a></div>
+
+<h3>Donate</h3>
+<div>If you want to support me, here is my <a href="https://steamcommunity.com/id/arturmes">Steam</a></div>
 
 </body></html>
