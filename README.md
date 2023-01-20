@@ -9,9 +9,8 @@
 <div><a href="https://github.com/Arturium-Browser/arturium-browser">GitHub Repo</a></div>
 
 <h3>Help</h3>
-<div><a href="https://github.com/Arturium-Browser/arturium-browser/blob/arturium-browser/README.md">README on GitHub</a></div>
+<div>README on <a href="https://github.com/Arturium-Browser/arturium-browser/blob/arturium-browser/README.md">GitHub</a></div>
 
-<h4>Donate</h4>
-<div>If you want to support me, here is my <a href="https://steamcommunity.com/id/arturmes">Steam</a></div>
+<h5>Donate</h5><div><h6>If you want to support me, here is my <a href="https://steamcommunity.com/id/arturmes">Steam</a></h6></div>
 
 </body></html>
