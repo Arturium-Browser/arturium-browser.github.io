@@ -1,4 +1,4 @@
-<html lang="en"><head></head><body><title>Arturium Browser</title><link rel="icon" type="image/png" href="https://raw.githubusercontent.com/Arturium-Browser/arturium-browser/arturium-browser/arturium-browser/arturium.png"/>
+<html lang="en"><head></head><body><link rel="icon" type="image/png" href="https://raw.githubusercontent.com/Arturium-Browser/arturium-browser/arturium-browser/arturium-browser/arturium.png"/>
 <h1>Arturium Browser</h1>
 <div>Arturium Browser a simple browser in PyQt5 и Bash</div>
 
