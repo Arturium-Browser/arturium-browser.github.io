@@ -1,5 +1,4 @@
 <html lang="en"><head></head><body><link rel="icon" type="image/png" href="https://raw.githubusercontent.com/Arturium-Browser/arturium-browser/arturium-browser/arturium-browser/arturium.png"/>
-
 <h3>Downloads</h3>
 <div style="font-size:larger">--&gt;<a href="https://github.com/Arturium-Browser/arturium-browser/releases/tag/v0.286-8">Latest Build</a> &lt;--</div>
 <div style="font-size:smaller">If the latest build doesn't work you can try one of the old <a href="https://github.com/Arturium-Browser/arturium-browser/releases">releases</a></div>
