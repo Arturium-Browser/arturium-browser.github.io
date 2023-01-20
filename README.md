@@ -11,6 +11,7 @@
 <h3>Help</h3>
 <div>README on <a href="https://github.com/Arturium-Browser/arturium-browser/blob/arturium-browser/README.md">GitHub</a></div>
 
-<h5>Donate</h5><div><h6>If you want to support me, here is my <a href="https://steamcommunity.com/id/arturmes">Steam</a></h6></div>
+<h5>Donate</h5>
+<div><h6>If you want to support me, here is my <a href="https://steamcommunity.com/id/arturmes">Steam</a></h6></div>
 
 </body></html>
