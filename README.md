@@ -3,7 +3,7 @@
 <div style="font-size:larger">--&gt;<a href="https://github.com/Arturium-Browser/arturium-browser/releases/tag/v0.287.2">Latest Build</a> &lt;--</div>
 <div style="font-size:smaller">If the latest build doesn't work you can try one of the old <a href="https://github.com/Arturium-Browser/arturium-browser/releases">releases</a></div>
 
-<div>These Download links for the Linux builds in the one package. Right now this is build <a href="https://github.com/Arturium-Browser/arturium-browser/releases/tag/v0.287-2">0.287-2</a>. Releases for Windows are not available yet</div>
+<div>These Download links for the Linux builds in the one package. Right now this is build <a href="https://github.com/Arturium-Browser/arturium-browser/releases/tag/v0.287.2">0.287-2</a>. Releases for Windows are not available yet</div>
 
 <h3>Source Code</h3>
 <div><a href="https://github.com/Arturium-Browser/arturium-browser">GitHub Repo</a></div>
